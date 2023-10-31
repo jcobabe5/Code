@@ -119,7 +119,7 @@ h2 {
 }
 #logo_link {
     padding-top: 5px;
-    justify-self: 5px;
+    justify-self: center;
     align-self: center;
 }
 footer .social img {
